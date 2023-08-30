@@ -115,7 +115,7 @@ pip install yfinance tensorflow numpy ta scikit-learn
 Now the fun part begins!  Simply type this command into your terminal window to initialize the Diomedes AI model:
 
 ```
-python3 DiomedesAI.py
+python3 Diomedes.py
 ```
 
 Diomedes will print a welcome message on your screen and begin to ask you a few questions to gauge your risk tolerance, market outlook, and investment goals.
